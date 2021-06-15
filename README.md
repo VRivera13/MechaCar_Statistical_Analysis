@@ -24,7 +24,7 @@
 * For lots 1 and 2,  the PSI values are similar to  the population mean. However for lot 3 the p-value is .042 which means there is evidence that the suspension coil varies from the population mean. All t-tests can be seen below:
 
 ### All Lots:
-
+![all lots](https://github.com/VRivera13/MechaCar_Statistical_Analysis/blob/main/images/Across%20all%20lots.PNG)
 ### Lot 1:
 
 ### Lot 2:
