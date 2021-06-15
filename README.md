@@ -30,6 +30,7 @@
 ### Lot 2:
 ![lot2](https://github.com/VRivera13/MechaCar_Statistical_Analysis/blob/main/images/Lot%202.PNG)
 ### Lot 3:
+![lot3](https://github.com/VRivera13/MechaCar_Statistical_Analysis/blob/main/images/Lot%203.PNG)
 
 ## Study Design: MechaCar vs Competition
 
